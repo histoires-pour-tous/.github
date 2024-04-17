@@ -1,12 +1,14 @@
-# Histoires Libres
+# Histoires pour tous
 
-Un regroupement d'histoires libres de droit au format STUdio.
+Histoires pour tous est un regroupement da packs histoires / jeux libre de droit au format STUdio.
 
-## Projet en cours
+Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos packs, nous seront ravis de les intégrer à cette collection.
+
+## Projets en cours
 
 - [Les extraordinaires aventures de Léa et Zac](./les-extraordinaires-aventures-de-lea-et-zac)
 
-## Idée de packs
+## Idées de packs
 
 ### Quizz
 
@@ -26,14 +28,14 @@ Un regroupement d'histoires libres de droit au format STUdio.
 - Quizz des pays
   - Dans quel ville se trouve Big Ben ? "son de big ben" Australie, Angleterre, Allemagne
 
-### Educatif
+### Educatifs
 
 - Découvre l'alphabet
   - M fait le mmmmeeeu, Maison commence par un M 
 - Découvre les sons
   - M et A font Ma, comme dans Maman
 
-### Les bruits
+### Sons qui nous entourent
 
 - Son de la ferme
   - Trouver le son des animaux de la ferme et les associer au nom de l'animal
