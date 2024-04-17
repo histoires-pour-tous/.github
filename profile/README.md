@@ -12,7 +12,7 @@ Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos 
 
 - [5+| Les extraordinaires aventures de Léa et Zac](https://github.com/histoires-pour-tous/les-extraordinaires-aventures-de-lea-et-zac) (@DantSu)
 - [5+| Le Royaume Ensoleillé - Drako le dragon](https://github.com/histoires-pour-tous/le-royaume-ensoleille-drako-le-dragon) (@arabine)
-- [5+| Les enquêtes de Sherlock Holmes](https://github.com/les-enquetes-de-sherlock-holmes) (@arabine)
+- [5+| Les enquêtes de Sherlock Holmes](https://github.com/histoires-pour-tous/les-enquetes-de-sherlock-holmes) (@arabine)
   
 ## Idées de packs
 
