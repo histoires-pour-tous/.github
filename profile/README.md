@@ -4,9 +4,13 @@ Histoires pour tous est un regroupement da packs histoires / jeux libre de droit
 
 Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos packs, nous seront ravis de les intégrer à cette collection.
 
+## Projets disponibles
+
+- [(Telmi) 5+) Par une nuit d'Halloween](https://github.com/histoires-pour-tous/par-une-nuit-d-halloween)
+
 ## Projets en cours
 
-- [Les extraordinaires aventures de Léa et Zac](https://github.com/histoires-pour-tous/les-extraordinaires-aventures-de-lea-et-zac)
+- [5+) Les extraordinaires aventures de Léa et Zac](https://github.com/histoires-pour-tous/les-extraordinaires-aventures-de-lea-et-zac)
 
 ## Idées de packs
 
