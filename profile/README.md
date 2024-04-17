@@ -11,7 +11,8 @@ Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos 
 ## Projets en cours
 
 - [5+| Les extraordinaires aventures de Léa et Zac](https://github.com/histoires-pour-tous/les-extraordinaires-aventures-de-lea-et-zac)
-
+- [5+| Le Royaume Ensoleillé - Drako le dragon](https://github.com/histoires-pour-tous/le-royaume-ensoleille-drako-le-dragon)
+  
 ## Idées de packs
 
 ### Quizz
