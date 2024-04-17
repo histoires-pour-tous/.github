@@ -6,19 +6,19 @@ Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos 
 
 ## Projets disponibles
 
-- [(Telmi) 5+| Par une nuit d'Halloween](https://github.com/histoires-pour-tous/par-une-nuit-d-halloween)
+- [(Telmi) 5+| Par une nuit d'Halloween](https://github.com/histoires-pour-tous/par-une-nuit-d-halloween) (@DantSu)
 
 ## Projets en cours
 
-- [5+| Les extraordinaires aventures de Léa et Zac](https://github.com/histoires-pour-tous/les-extraordinaires-aventures-de-lea-et-zac)
-- [5+| Le Royaume Ensoleillé - Drako le dragon](https://github.com/histoires-pour-tous/le-royaume-ensoleille-drako-le-dragon)
-- [5+| Les enquêtes de Sherlock Holmes](https://github.com/les-enquetes-de-sherlock-holmes)
+- [5+| Les extraordinaires aventures de Léa et Zac](https://github.com/histoires-pour-tous/les-extraordinaires-aventures-de-lea-et-zac) (@DantSu)
+- [5+| Le Royaume Ensoleillé - Drako le dragon](https://github.com/histoires-pour-tous/le-royaume-ensoleille-drako-le-dragon) (@arabine)
+- [5+| Les enquêtes de Sherlock Holmes](https://github.com/les-enquetes-de-sherlock-holmes) (@arabine)
   
 ## Idées de packs
 
 ### Quizz
 
->>> ATTENTION!! Pour les Quizz il n'y a pas de soucis à poser des questions sur des licences, genre "Quel est le meilleur amis de Trotro ?" tant que le quizz ne porte pas QUE sur cette licence. Par exemple On a le droit de faire une quizz "Les dessins animées avec des animaux" et demander "Quel est le jouet préféré de petit ours brun ?" et ensuite avoir des questions sur Simon pui sur Zootopie... par contre, on a pas le droit de faire un Quizz sur une licence précise "Le quizz de la pat'Patrouille" la on se fait strike !
+> ATTENTION!! Pour les Quizz il n'y a pas de soucis à poser des questions sur des licences, genre "Quel est le meilleur amis de Trotro ?" tant que le quizz ne porte pas QUE sur cette licence. Par exemple On a le droit de faire une quizz "Les dessins animées avec des animaux" et demander "Quel est le jouet préféré de petit ours brun ?" et ensuite avoir des questions sur Simon pui sur Zootopie... par contre, on a pas le droit de faire un Quizz sur une licence précise "Le quizz de la pat'Patrouille" la on se fait strike !
 
 - Culture générale Maternelle
 - Culture générale CP
