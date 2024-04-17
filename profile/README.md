@@ -6,7 +6,7 @@ Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos 
 
 ## Projets en cours
 
-- [Les extraordinaires aventures de Léa et Zac](./les-extraordinaires-aventures-de-lea-et-zac)
+- [Les extraordinaires aventures de Léa et Zac](https://github.com/histoires-pour-tous/les-extraordinaires-aventures-de-lea-et-zac)
 
 ## Idées de packs
 
