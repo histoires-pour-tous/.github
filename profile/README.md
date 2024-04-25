@@ -35,7 +35,7 @@ Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos 
   - Je vole, je tire des lasers avec mes yeux, je suis indestructible et j'arbore fièrement un S sur ma poitrine, qui suis-je ? Batman, Superman, Green Lantern
   - Je suis un gaulois qui est tombé dans une marmitte de potion magique tout petit, qui suis-je ? Astérix, Obélix, Panoramix
 - Quiz des pays
-  - Dans quel ville se trouve Big Ben ? "son de big ben" Australie, Angleterre, Allemagne
+  - Dans quel ville se trouve Big Ben ? "son de big ben" Paris, Londres, Berlin
 
 ### Educatifs
 
