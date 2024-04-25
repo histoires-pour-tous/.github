@@ -18,7 +18,8 @@ Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos 
 
 ### Quizz
 
-> ATTENTION!! Pour les Quizz il n'y a pas de soucis à poser des questions sur des licences, genre "Quel est le meilleur amis de Trotro ?" tant que le quizz ne porte pas QUE sur cette licence. Par exemple On a le droit de faire une quizz "Les dessins animées avec des animaux" et demander "Quel est le jouet préféré de petit ours brun ?" et ensuite avoir des questions sur Simon pui sur Zootopie... par contre, on a pas le droit de faire un Quizz sur une licence précise "Le quizz de la pat'Patrouille" la on se fait strike !
+> ATTENTION!! Pour les Quiz il n'y a pas de soucis à poser des questions sur des licences ( Exemple : "Quel est le meilleur amis de Trotro ?" ) tant que le quiz ne porte pas QUE sur cette licence. 
+> Par exemple, on a le droit de faire un quiz "Les dessins animées avec des animaux" et demander "Quel est le jouet préféré de petit ours brun ?" et ensuite avoir des questions sur Simon puis sur Zootopie... par contre, on a pas le droit de faire un quiz sur une licence précise "Le quizz de la Pat'Patrouille" car dans ce cas là, on enfreind des droits d'auteur.
 
 - Culture générale Maternelle
 - Culture générale CP
@@ -26,14 +27,14 @@ Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos 
 - Culture générale CE2
 - Culture générale CM1
 - Culture générale CM2
-- Quizz des princesses
-  - J'habite en haut d'une tour, j'ai de long cheveux dorée, qui suis-je ? Cendrillon, Aurore, Raiponce
+- Quiz des princesses
+  - J'habite en haut d'une tour, j'ai de long cheveux dorées, qui suis-je ? Cendrillon, Aurore, Raiponce
   - Dans quel pays habite Mulan ? Mongolie, Chine, Japon
   - Quel est le prénom de la belle au bois dormant ? Aurore, Belle, Arielle
-- Quizz des héros
-  - Je vole, je tire des laser avec mes yeux, je suis indestructible et j'arbore fièrement un S sur ma poitrine, Qui suis-je ? Batman, Superman, Green Lantern
+- Quiz des héros
+  - Je vole, je tire des lasers avec mes yeux, je suis indestructible et j'arbore fièrement un S sur ma poitrine, qui suis-je ? Batman, Superman, Green Lantern
   - Je suis un gaulois qui est tombé dans une marmitte de potion magique tout petit, qui suis-je ? Astérix, Obélix, Panoramix
-- Quizz des pays
+- Quiz des pays
   - Dans quel ville se trouve Big Ben ? "son de big ben" Australie, Angleterre, Allemagne
 
 ### Educatifs
