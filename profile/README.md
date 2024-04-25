@@ -16,10 +16,10 @@ Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos 
   
 ## Idées de packs
 
-### Quizz
+### Quiz
 
 > ATTENTION!! Pour les Quiz il n'y a pas de soucis à poser des questions sur des licences ( Exemple : "Quel est le meilleur amis de Trotro ?" ) tant que le quiz ne porte pas QUE sur cette licence. 
-> Par exemple, on a le droit de faire un quiz "Les dessins animées avec des animaux" et demander "Quel est le jouet préféré de petit ours brun ?" et ensuite avoir des questions sur Simon puis sur Zootopie... par contre, on a pas le droit de faire un quiz sur une licence précise "Le quizz de la Pat'Patrouille" car dans ce cas là, on enfreind des droits d'auteur.
+> Par exemple, on a le droit de faire un quiz "Les dessins animées avec des animaux" et demander "Quel est le jouet préféré de petit ours brun ?" et ensuite avoir des questions sur Simon puis sur Zootopie... par contre, on a pas le droit de faire un quiz sur une licence précise "Le quiz de la Pat'Patrouille" car dans ce cas là, on enfreind des droits d'auteur.
 
 - Culture générale Maternelle
 - Culture générale CP
