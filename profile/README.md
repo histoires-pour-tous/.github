@@ -6,13 +6,9 @@ Si vous souhaitez participer à l'aventure, n'hésitez pas à nous proposer vos 
 
 ## Projets disponibles
 
-- [(Telmi) 5+| Par une nuit d'Halloween](https://github.com/histoires-pour-tous/par-une-nuit-d-halloween) (@DantSu)
-- [(Telmi) 5+| Les P'tits Futés - Le quiz des animaux de la ferme](https://github.com/histoires-pour-tous/les-ptits-futes-quiz-les-animaux-de-la-ferme) (@DantSu, @Elogeith)
-- [(Telmi) 5+| Les P'tits Futés - Le quiz des fruits et légumes](https://github.com/histoires-pour-tous/les-ptits-futes-quiz-les-fruits-et-legumes) (@DantSu, @Elogeith)
 
 ## Projets en cours
 
-- [5+| Les extraordinaires aventures de Léa et Zac](https://github.com/histoires-pour-tous/les-extraordinaires-aventures-de-lea-et-zac) (@DantSu)
 - [5+| Le Royaume Ensoleillé - Drako le dragon](https://github.com/histoires-pour-tous/le-royaume-ensoleille-drako-le-dragon) (@arabine)
 - [5+| Les enquêtes de Sherlock Holmes](https://github.com/histoires-pour-tous/les-enquetes-de-sherlock-holmes) (@arabine)
   
